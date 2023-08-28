@@ -5,6 +5,6 @@
 ### 개발도구 : Unity
 ### 개발언어 : C#
 ### 플랫폼 : Desktop
-### 프로그램 설명 : 
+### 시연영상 및 사용자평가 : https://faceted-jade-221.notion.site/2b0e876fe63744f09925790ccba8e2e6?pvs=4
 ---
 ### 역할 분담
