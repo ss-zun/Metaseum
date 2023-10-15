@@ -2,7 +2,7 @@
 ## 팀원 : 성지윤, 박유진, 전준우
 ## 본인 역할 : 서버(멀티플레이) 구축, 채팅 기능 구현 
 
-### 개발도구 : Unity
+### 개발도구 : Unity, PhotonCloud
 ### 개발언어 : C#
 ### 플랫폼 : Desktop
 ### 시연영상 및 사용자평가 : https://www.notion.so/b45f41e11a004595baa1f0cd5379e53c
